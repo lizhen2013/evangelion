@@ -1,13 +1,13 @@
-language:node_js
+language: node_js
 node_js:
-    "stable"
+  "stable"
 cache:
-    directories:
-        node_modules
+  directories:
+    node_modules
 env:
-    CI=true
+  CI=true
 deploy:
-    provider:pages
-    skip_cleanup: true
-    on:
-        test
+  provider:pages
+  skip_cleanup: true
+  on:
+    test
