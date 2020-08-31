@@ -1,0 +1,10 @@
+//Scss import won't create a http request to get imported module.
+//For those partial scss file when importing them there is no need add _ at the begin of variable name.
+@import "variables";
+@import "reboot";
+@import "mixins";
+
+//button 
+@import "../components/Button/style";
+//alert 
+@import "../components/Alert/style";
