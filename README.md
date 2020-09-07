@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/lizhen2013/evangelion.svg?branch=master)](https://travis-ci.com/lizhen2013/evangelion)
 # evangelion
 
 A react component library
